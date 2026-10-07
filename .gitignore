@@ -1,0 +1,13 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+/test-report/
+/CareHometest-results/
+
+# Local login credentials (copy config.local.example.properties to create it)
+config.local.properties
